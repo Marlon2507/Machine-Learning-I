@@ -1,2 +1,2 @@
 # MACHINE-LEARNING-I
-Este repositorio contiene implementaciones en Python de ejercicios de Machine Learning, basados en los contenidos de regresión lineal simple y regresión de lineal con variables multiples
+Este repositorio contiene implementaciones en Python de ejercicios de Machine Learning, centrados en la regresión lineal simple y la regresión lineal con múltiples variables. La finalidad es proporcionar ejemplos prácticos y explicaciones claras sobre problemas reales.
